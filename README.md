@@ -9,6 +9,7 @@ This repository is organized with each Python project in its own sub-directory:
 python-projects/
 ├── LICENSE
 ├── README.md
+├── resume/
 └── todolist/
     ├── todolist.py          # Todo list management application
     └── tasks.json           # JSON file for storing tasks
@@ -21,6 +22,14 @@ A command-line todo list application for managing tasks.
 - **Location**: `todolist/`
 - **Main File**: `todolist.py`
 - **Features**: Load/save tasks from JSON, add/remove tasks
+
+- ### 📄 Resume
+
+A continuously maintained professional resume with version control integration. This demonstrates the importance of keeping professional documentation organized and up-to-date.
+
+- **Location**: `resume/`
+- **Main Files**: `resume.md`
+- **Purpose**: Professional resume as a versioned project
 
 ## Getting Started
 
